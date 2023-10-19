@@ -1,0 +1,8 @@
+create NPM project
+create Index,js files
+install dependancies,express,nodemon
+create a express server
+do frontend part
+install socket.io,setup socket.io in server.js and client clinet.js
+client send message logic in client.js
+receive message on server and broadcat to all clients
